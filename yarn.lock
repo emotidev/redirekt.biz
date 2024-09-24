@@ -38,10 +38,10 @@
   dependencies:
     client-only "^0.0.1"
 
-"@heroicons/react@^2.0.16":
-  version "2.0.16"
-  resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-2.0.16.tgz#562883c19ba2690c83380b42a9a5cce39dcbdb4a"
-  integrity sha512-x89rFxH3SRdYaA+JCXwfe+RkE1SFTo9GcOkZettHer71Y3T7V+ogKmfw5CjTazgS3d0ClJ7p1NA+SP7VQLQcLw==
+"@heroicons/react@^2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-2.1.5.tgz#1e13f34976cc542deae92353c01c8b3d7942e9ba"
+  integrity sha512-FuzFN+BsHa+7OxbvAERtgBTNeZpUjgM/MIizfVkSCL2/edriN0Hx/DWRCR//aPYwO5QX/YlgLGXk+E3PcfZwjA==
 
 "@humanwhocodes/config-array@^0.11.8":
   version "0.11.8"
